@@ -1,3 +1,4 @@
+![logo](https://github.com/samreen-banu21/samreen-banu21/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm samreen</h1>
 <h3 align="center">A passionate web developer</h3>
 
