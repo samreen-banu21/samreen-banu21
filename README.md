@@ -1,7 +1,7 @@
 ![logo](https://github.com/samreen-banu21/samreen-banu21/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm samreen</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" width="300" height="300">
+<img align="right" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" width="250" height="250">
 - 🌱 I’m currently learning **reactjs,nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samreen-banu21](https://github.com/samreen-banu21)
